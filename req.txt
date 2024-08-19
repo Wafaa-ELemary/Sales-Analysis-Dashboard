@@ -1,0 +1,14 @@
+1-Sales by category
+2-profit gained over time (year)
+3-sales by state
+4-customer count by year
+5-Top 5 customer making profit
+6-monthly sales
+
+
+
+--------------------Steps----------
+1-remove duplicates
+2-turn date into year
+3-turn date into month
+4-making pivot chart
